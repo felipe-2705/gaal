@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1497148862 source:c:\users\bianca\desktop\facul\pp - 2017-1\code - 2017-1\exerciciodistanciaentredoispontos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1497190423 source:c:\users\bianca\desktop\facul\gaal - 2017-1\exerciciodistanciaentredoispontos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
